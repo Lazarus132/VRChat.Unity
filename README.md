@@ -9,7 +9,7 @@ Ein vollständig integrierter Shader für Unity – optimiert für Assets, die a
 
 1. **Unity 2019+** oder höher (empfohlen: 2022+)
 2. **Importiere das Shader-Paket** in dein Projekt (`.unitypackage` oder manuell als Ordner)
-3. Wechsle im Material zu **Shader → VRChat → LazarusShaderHLSL**
+3. Wechsle im Material zu **Shader → VRChat → LazarusShader**
 4. Stelle sicher, dass deine Maps korrekt zugewiesen sind (s. Setup unten)
 
 ---
