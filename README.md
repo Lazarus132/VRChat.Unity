@@ -49,7 +49,7 @@ Ein vollständig integrierter Shader für Unity – optimiert für Assets, die a
 1. **Blender exportieren** als `.glTF` oder `.FBX` mit PBR Maps:
    - Albedo (BaseColor), Roughness, Metallic, Normal, AO
 2. Importiere die Maps in Unity
-3. Erstelle Material → Wähle `VRChat/LazarusShaderHLSL`
+3. Erstelle Material → Wähle `VRChat/LazarusShader`
 4. Weise Texturen zu → Aktiviere entsprechende Toggle in der GUI
 5. Optional: Aktiviere Transparenz über den Modus „Fade“ oder „Transparent“
 
